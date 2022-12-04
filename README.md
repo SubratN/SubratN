@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **AI/ML**
 
 - 📫 How to reach me **nayaksubrat37@gmail.com**
 
@@ -16,7 +16,8 @@
    <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
   <img src="https://img.icons8.com/color/512/tableau-software.png" style="height:48px;width:48px" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/512/tensorflow.png" style="height:48px;width:48px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
