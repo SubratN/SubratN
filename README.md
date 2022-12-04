@@ -11,7 +11,7 @@
 ## Languages and Tools:
 
 <p align="left"> 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ficonarchive.com%2Fdownload%2Fi73027%2Fcornmanthe3rd%2Fplex%2FOther-python.ico&imgrefurl=https%3A%2F%2Ficonarchive.com%2Ftag%2Fpython&tbnid=qGs7GVyFS7qFTM&vet=12ahUKEwjshM6qp9_7AhX7KbcAHUr_Bb8QMygBegUIARC9AQ..i&docid=a5k2idENZuXr-M&w=256&h=256&q=python%20icon%20download&ved=2ahUKEwjshM6qp9_7AhX7KbcAHUr_Bb8QMygBegUIARC9AQ"/>  
+    <img src="https://icons8.com/icon/13441/python"/>  
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
