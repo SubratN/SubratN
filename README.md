@@ -14,7 +14,7 @@
     <img src="https://img.icons8.com/color/48/000000/python.png"/>  
     <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
    <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+  <img src="https://img.icons8.com/fluency/512/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/512/tableau-software.png" style="height:48px;width:48px" />
   <img src="https://img.icons8.com/color/512/tensorflow.png" style="height:48px;width:48px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
