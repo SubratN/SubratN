@@ -29,8 +29,6 @@
 ## Contact Me ☎️
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/amar-jyoti-patra-28a610207/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/subratnayak96/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  * Mail me on nayaksubrat37@gmail.com
-    <br/>
-    <a href="https://amarjyotipatra-portfolio.netlify.app">Connect With Me</buttoa>
 </p>
