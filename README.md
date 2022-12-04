@@ -11,9 +11,9 @@
 ## Languages and Tools:
 
 <p align="left"> 
-    <img src="https://icons8.com/icon/13441/python.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>  
+    <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+   <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
