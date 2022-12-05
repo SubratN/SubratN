@@ -1,4 +1,4 @@
-<img align="center" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="subrat" style="height:100px;width:100px" />
+<img align="center" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="subrat" style="height:700px;width:1000px" />
 
 <h1 align="center">Hi 👋, I'm  Subrata Nayak</h1>
 
